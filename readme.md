@@ -107,15 +107,6 @@ cd ~/.local/share/k3s-status-tray
 python3 k3s-status-tray.py
 ```
 ---
-## Repository Structure (Example)
-```text
-k3s-status-tray/
-├── k3s-status-tray.py
-├── k3s-status-tray.desktop
-├── k3s-status-tray.svg
-└── README.md
-```
----
 ## Notes
 - **KDE Plasma 6:** Tested and working on CachyOS
 - **Icon color:** When K3s is active, the icon is colored blue `#255BA3`, when inactive it's black
