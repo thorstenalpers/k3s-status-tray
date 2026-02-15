@@ -34,6 +34,14 @@ A small system tray tool for **K3s** on Linux (tested with **CachyOS KDE6/Plasma
 
 ---
 
+
+## Demo 
+
+
+![K3s Tray Demo](demo.gif)
+
+---
+
 ## Installation
 
 ### 1. Place files
@@ -115,12 +123,6 @@ k3s-status-tray/
 - **Status update:** Automatically every 5 seconds
 
 ---
-
-## Demo 
-
-
-![K3s Tray Demo](demo.gif)
-
 
 ## License
 
