@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "debugpy",
+            "request": "launch",
+            "name": "Python: k3s-status-tray.py",
+            "program": "${workspaceFolder}/k3s-status-tray.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
