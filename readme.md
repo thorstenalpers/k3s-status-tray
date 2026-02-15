@@ -81,7 +81,7 @@ Comment=K3s system tray indicator
 Exec=/usr/bin/python3 /home/YOUR_USERNAME/.local/share/k3s-status-tray/k3s-status-tray.py
 Icon=/home/YOUR_USERNAME/.local/share/k3s-status-tray/k3s-status-tray.svg
 Terminal=false
-Categories=System;Monitor;
+Categories=Development;IDE;
 Keywords=k3s;kubernetes;tray;status;
 StartupNotify=true
 ```
@@ -98,7 +98,7 @@ nano ~/.local/share/applications/k3s-status-tray.desktop
 update-desktop-database ~/.local/share/applications
 ```
 
-After this, you can find "K3s Status Tray" in your KDE Start Menu under **System** or by searching for "k3s".
+After this, you can find "K3s Status Tray" in your KDE Start Menu under **Development** or by searching for "k3s".
 
 ---
 ## Manual Start
