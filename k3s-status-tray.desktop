@@ -6,4 +6,5 @@ Icon=/home/YOUR_USERNAME/.local/share/k3s-status-tray/k3s-status-tray.svg
 Terminal=false
 Type=Application
 Categories=Development;IDE;
+Keywords=k3s;kubernetes;tray;status;
 X-KDE-autostart-after=panel
